@@ -27,7 +27,7 @@ Já coloque duas tarefas _hard-coded_ no vetor tarefas, porque elas serão útei
 <details>
   <summary>2 tarefas de exemplo...</summary>
 
-  1. `'Comprar leite', compras', false`
+  1. `'Comprar leite', 'compras', false`
   1. `'Escutar chimbinha', 'lazer', true`
 </details>
 
